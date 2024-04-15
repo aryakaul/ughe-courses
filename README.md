@@ -1,6 +1,8 @@
 # UGHE Data Analysis courses
 
-## Step 1 - Download and install Anaconda
+## Course 1 - Intro. to Data Visualization
+
+### Step 1 - Download and install Anaconda
 
 To get started, we need to first download and install a `Python` coding environment with the necessary tools to get you started on your data analysis journey.
 
@@ -18,7 +20,7 @@ First, navigate to the `Environments` tab and find one that says `base` (if you 
 
 After that, go back to the `Home` tab and click on the button to Launch a `JupyterLab` environment.
 
-## Step 2 - Download the course materials
+### Step 2 - Download the course materials
 
 Once you launch the `JupyterLab` environment you should find yourself in a web browser that looks something like this:
 
@@ -36,7 +38,7 @@ Next, do the same procedure for the file labeled `african-health-emigration_clem
 
 <img width="728" alt="image" src="https://github.com/aryakaul/ughe-courses/assets/14893842/eec0189f-c35c-4096-beff-382a59d27442">
 
-## Step 3 - Open tutorial
+### Step 3 - Open tutorial
 
 Go back to the `JupyterLab` tab in your browser and use the file browser to navigate to whichever folder you put the course materials in. Then double click on the file `tutorial.ipynb`.
 
