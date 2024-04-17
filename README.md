@@ -14,7 +14,7 @@ Your installation wizard might vary depending on if you're using a Mac or Window
 
 <img width="1479" alt="image" src="https://github.com/aryakaul/ughe-courses/assets/14893842/75c9be01-20ae-4636-85bd-355bd33bdd77">
 
-First, navigate to the `Environments` tab and find one that says `base` (if you have two like me, select the one that says `base (root)`). Click it, and then in the search bar search for `xlrd` click on the first one that pops up and go through the process of installing it.
+First, navigate to the `Environments` tab and find one that says `base` (if you have two like me, select the one that says `base (root)`). Click it, and then in the search bar search for `xlrd` click on the first one that pops up and go through the process of installing it. If you have trouble finding `xlrd`, make sure that you are searching 'All' packages not just 'Installed'. This is the dropdown menu next to 'Channels'. 
 
 <img width="1480" alt="image" src="https://github.com/aryakaul/ughe-courses/assets/14893842/150cb431-b3aa-4017-bc20-343b570eeecd">
 
