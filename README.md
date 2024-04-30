@@ -46,7 +46,40 @@ If all went well you should open it to find yourself in a `JupyterLab` notebook!
 
 <img width="1480" alt="image" src="https://github.com/aryakaul/ughe-courses/assets/14893842/4fa22e6d-7ad9-4afe-bf59-f505d927e62e">
 
+## Course 2 - Intro. to Programming
 
+### Step 1 - Download and install Anaconda
 
+To get started, we need to first download and install a `Python` coding environment with the necessary tools to get you started on your data analysis journey.
 
-To get started with this course navigate to `01_intro-to-data-vis` and download both files inside it. Then open them up!
+For these courses, we will use the Anaconda distribution. 
+
+You can download and install it here: [https://www.anaconda.com/download](https://www.anaconda.com/download)
+
+Your installation wizard might vary depending on if you're using a Mac or Windows machine, but after installing and opening the `Anaconda-Navigator` app you should get to a screen that looks like this: 
+
+<img width="1479" alt="image" src="https://github.com/aryakaul/ughe-courses/assets/14893842/75c9be01-20ae-4636-85bd-355bd33bdd77">
+
+Simply click on the button to Launch a `JupyterLab` environment.
+
+### Step 2 - Download the course materials
+
+Once you launch the `JupyterLab` environment you should find yourself in a web browser that looks something like this:
+
+<img width="1479" alt="image" src="https://github.com/aryakaul/ughe-courses/assets/14893842/93d33149-26d1-4722-a3e4-7b6657bc39e4">
+
+Leave that tab open, and now open a new tab to this [link](https://github.com/aryakaul/ughe-courses/tree/main/02_intro-to-programming). You should find a page that looks like this:
+
+![image](https://github.com/aryakaul/ughe-courses/assets/14893842/6606708d-31f0-4cd1-afc0-dfb10e3af149)
+
+First, click on the file labeled `tutorial.ipynb`, and `Download the raw file`. The download button is a downwards arrow on the top right:
+
+![image](https://github.com/aryakaul/ughe-courses/assets/14893842/340e4811-b8d6-4dc3-a236-fb7c7ad1685f)
+
+Place that file wherever you want (in a folder on the Desktop is fine)
+
+### Step 3 - Open tutorial
+
+Go back to the `JupyterLab` tab in your browser and use the file browser on the left hand side to navigate to whichever folder you put the course materials in. Then double click on the file `tutorial.ipynb`.
+
+If all went well you should open it to find yourself in a `JupyterLab` notebook! Congrats! You are now ready for the seminar! You can find a nice beginner's tutorial [here](https://hyperskill.org/blog/post/jupyter-notebook-a-complete-how-to-tutorial), but we will go over everything after this together!
